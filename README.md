@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @resulaykan
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on None
 - 📫 How to reach me ;
-- Telegram Ancien1
+- Telegram: a1kan
 
 <!---
 resulaykan/resulaykan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
